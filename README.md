@@ -1,0 +1,4 @@
+# Twitter-developer-basics
+In this repository, I have used the python tweepy to explore some of the capabilities of twitter developer account.
+To access twitter API or tweepy (python library) we need a twitter developer account. To create a twitter developer account head to https://developer.twitter.com/en. In the developer account we need to create an app (Fill the form with the details required). Once the app is created, you can get the Consumer API Key (C_KEY), Consumer API Secret Key (C_SECRET), Access Token (A_TOKEN) and Access Token Secret (A_TOKEN_SECRET). These keys and tokens are necessary for us to make an authorized call to twitter API. In the project we are using Oauth v1, for further information on this you can check out https://developer.twitter.com/en/docs/authentication/oauth-1-0a.
+In the scope of this project, I have removed my access tokens and access keys. So, you need to add your access tokens and keys of your twitter developer account.

@@ -20,7 +20,7 @@ print("\n")
 
 #Update twitter status
 
-#new_status=api.update_status("Every day is a chance to begin again")
+new_status=api.update_status("Every day is a chance to begin again")
 print("Your latest tweet is posted",)
 
 
